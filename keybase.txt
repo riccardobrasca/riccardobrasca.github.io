@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/riccardobrasca
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://riccardobrasca.github.io
+  * I am riccardobrasca (https://keybase.io/riccardobrasca) on keybase.
+  * I have a public key ASACnbWPXBFZXPOSF45ACdVSl2uyCSGr5ymYpFq4WmFkqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120029db58f5c11595cf392178e4009d552976bb20921abe72998a45ab85a6164aa0a",
+      "host": "keybase.io",
+      "kid": "0120029db58f5c11595cf392178e4009d552976bb20921abe72998a45ab85a6164aa0a",
+      "uid": "00447975135e3be0bf5cb6badcf32319",
+      "username": "riccardobrasca"
+    },
+    "merkle_root": {
+      "ctime": 1587658331,
+      "hash": "8981ee0b1b8f5f0e80684b85fb365031e87e0e21a42c5cc666bc143008712ad87f4743eafc44aa3787fb93b499b287cd5866469762296ac04b861d2516df7305",
+      "hash_meta": "78a7e06654bd5348d557e5c37ee0ac9cab847747703dcdae801d76cb4ef4386b",
+      "seqno": 16027049
+    },
+    "service": {
+      "entropy": "nzRmYfaWl6Aa3NIbcKM6q8pR",
+      "hostname": "riccardobrasca.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587658342,
+  "expire_in": 504576000,
+  "prev": "b17397329d6236f6b6ba6db9effc95d28fd2ea16ab09cf06101ca501775415e3",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAp21j1wRWVzzkheOQAnVUpdrsgkhq+cpmKRauFphZKoKp3BheWxvYWTESpcCIsQgsXOXMp1iNva2um257/yV0o/S6harCc8GEBylAXdUFePEIG7Wxf2z99FRxxIq7rUlmN3TFyvNeNyS0oseVFZruGT9AgHCo3NpZ8RAF9e3CbkctxHdRebpHv89KZ0uLT2ndVIYGQjqqBVhOmBHgZ+btlBUAMxcJCtFs95eqOwDoRB3NU1MiNn77zIfCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJR3oBr57nRN5JODM6/0ZVbRINS3nGhexIPc3inoCqZ+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/riccardobrasca
+
+==================================================================
